@@ -1,6 +1,6 @@
 # THE TREASURE WHICH IS PRIVACY
 
-Abstract:
+## Abstract
 
 The Philosophy of Privacy Extremism emphasizes that privacy should be
 maintained in all situations; that if in question, privacy should be given
@@ -22,8 +22,11 @@ normative for those that thrive towards personal human positive development.
 
 The Treasure which is Privacy
 -----------------------------
+
+## First Response
+
 The first response to someone who makes an effort to protect his privacy is
-often "I have nothing to hide because I have nothing to fear" - usually
+often `I have nothing to hide because I have nothing to fear` - usually
 accompanied by an expression of righteous pride or the blissful presentation
 of carelessness.
 
@@ -32,8 +35,8 @@ and proverbs uttered in reply to trigger words, this statement is more
 informative about the speaker than of the addressee or the subject of
 discussion.
 
-More often than not its underlying meaning should be rephrased to read "I am
-uneasy, maybe even afraid, around people that hide something". As such it
+More often than not its underlying meaning should be rephrased to read `I am
+uneasy, maybe even afraid, around people that hide something`. As such it
 carries the implied request to anyone hearing it, that they shall stop
 covering and hiding things to relieve the speaker of his uneasiness.
 
@@ -49,9 +52,9 @@ instrument of rhetorics instead of an adequate choice of words in a balanced
 and clearheaded reasoning.
 Fear refers to the emotional response to existential danger and implies the
 lack or loss of courage to confront the danger.
-The sentence under analysis should thus be rephrased to read "You hide things
-because you lack courage in the presence of an imagined existential threat."
-It is therefor a double accusation of both cowardice and delusion.
+The sentence under analysis should thus be rephrased to read `You hide things
+because you lack courage in the presence of an imagined existential threat.`
+It is therefore a double accusation of both cowardice and delusion.
 
 Again it is not the focus of this analysis to show that protection of privacy
 and admitting to doing so requires a bit more courage than to repeat common
@@ -67,8 +70,8 @@ good reputation.
 
 It is interesting to note that an old synonym for 'fear' could e awe,
 admiration or astonishment, even respect.
-Worded this way, one might read above sentence as "I hide nothing, because I
-admire and respect nothing." This way it becomes clear that the denial of
+Worded this way, one might read above sentence as `I hide nothing, because I
+admire and respect nothing.` This way it becomes clear that the denial of
 privacy is often nothing but a lack of things that are valued and the demand
 that others should not value something themselves.
 It thus contains the claim that nothing should be special and set apart.
@@ -89,11 +92,18 @@ such.
 Leaving the analysis of the original statement one should now focus on the
 negation of the privacy opponent's reply while keeping its completed meaning
 in mind:
-"Because I value and respect some things, I hide some things."
+
+`Because I value and respect some things, I hide some things.`
+
+## When is privacy required?
 
 Three areas shall serve as examples of preserving value through hiding:
-Complex minority opinions, relationships between persons, and the human person
-itself.
+
+- Complex minority opinions 
+- Relationships between persons; and 
+- The human person itself
+
+### Complex Opinions
 
 Complex opinions and bodies of knowledge that are valued highly by their
 bearers are often only communicated under strict conditions to prevent
@@ -128,6 +138,8 @@ natural science and political societies of the Enlightenment including Bacon
 and Newton as members, Judaism, early Socialism.
 Privacy in this regard serves to preserve the integrity, and often survival,
 of information, ideas and opinions.
+
+### Relationships between persons
 
 Another area of interest is privacy and the use of hiding for the sake of
 other persons. To understand what role privacy plays in the context of
@@ -234,6 +246,7 @@ For additional consideration on privacy for the sake of others, an old book
 shall be mentioned as reference: "Ueber den Umgang mit Menschen" by Freiherr
 von Knigge.
 
+### The human person itself
 
 The last area to examine here as an example of preserving value through hiding
 is the human person itself.
@@ -298,6 +311,8 @@ A disregard for maintaining privacy in this area thus equals the utter
 disrespect for the Self one is, and the potential selves one could become. It
 is the denial and defiling of oneself as an individual person.
 
+## Final remarks
+
 In conclusion the proposition is, that:
 Only in privacy the "self of now" transcends itself to actualize "the self of
 the future" through every decision made, integrating the "self of the past"
@@ -330,8 +345,8 @@ preferable to keep silent instead of lying, as stated above.
 
 ---
 
-So far, the privacy opponent's reply "I have nothing to hide because I have
-nothing to fear" has been shown to be a rhetoric trap, or at least an
+So far, the privacy opponent's reply `I have nothing to hide because I have
+nothing to fear` has been shown to be a rhetoric trap, or at least an
 insufficiently contemplated cultural maxim. It has also been shown that there
 exist good reasons to embrace privacy, hiding and concealment.
 However, this text cannot be complete without some short answers to those,
@@ -359,12 +374,12 @@ become instruments of the public, or at least they pretend as much.
 How can such an argument against privacy then be used against the privacy of
 people that remain private instead of public? This appears to be fallacious.
 
-Towards their second argument, the "disintegration of interpersonal bonds that
-hold society together", it should be be understood both what "society" is, and
-what "interpersonal bonds" may refer to.
+Towards their second argument, the `disintegration of interpersonal bonds that
+hold society together`, it should be be understood both what `society` is, and
+what `interpersonal bonds` may refer to.
 Society is not a collective of interdependent persons connected b shared
 emotional states and intimacy, that would be what is commonly referred to as
-"family".
+`family`.
 Instead, society is the cooperative organization of persons that is held
 together by norms of interaction and shared understanding of necessary and
 useful methods of cooperation.
@@ -381,7 +396,9 @@ lack of self, or directing society to be bound by the smallest - and lowest -
 common denominators, a society of privacy allows for the progression of all
 members to actualize higher potentials without replacing the individual person
 with the collective Other of society.
+
 Privacy thus nurtures societies that thrive for improvement.
+
 This might even hold the potential for individual actors to integrate
 justifiable norms of social interaction into their Selves through independent
 contemplation and decisions instead of understanding these norms as being
@@ -410,21 +427,11 @@ harmful. The presented arguments for the allegedly negative impact of privacy
 have been found to be without merit or even supporting the strong use of
 privacy in society.
 
-The conclusion drawn is therefor that opposition to privacy as in "I hide
-nothing because I have nothing to fear" cannot be a default behavior.
-Instead the use and support of privacy in the form of "Because I value many
-things, therefor I hide many things" should be the standard unless it clearly
+The conclusion drawn is therefor that opposition to privacy as in `I hide
+nothing because I have nothing to fear` cannot be a default behavior.
+Instead the use and support of privacy in the form of `Because I value many
+things, therefor I hide many things` should be the standard unless it clearly
 needs to be abandoned for specific situations, if at all.
-
-
-
-
-
-
-
-
-
-
 
 
 
